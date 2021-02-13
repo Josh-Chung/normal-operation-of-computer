@@ -145,3 +145,9 @@ Jupyterlab 里较为常用的魔法函数整理如下：
 | `%writefile`         | 把 Cell 的内容写入文件，`%write file_name`；%write -a file_name，`-a` 是追加 |
 | `%matplotlib inline` | 行内展示 matplotlib 的结果                                   |
 | `%%bash`             | 运行随后的 shell 命令，比如 %%bash ls；与之类似的还有 `%%HTML`，`%%python2`，`%%python3`，`%%ruby`，`%%perl`……                      |
+
+
+## 常用快捷键
+
+- 按一下`ESC`，确保已经进入命令模式 
+- `Shift L`可切换是否显示代码行号
