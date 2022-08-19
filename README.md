@@ -3,10 +3,6 @@
 
 - [编程环境配置指南](/00-pc-environment-setup.md)
 - [命令行常用命令](/01-cmd-normal-operations.ipynb)
+- [git/github 使用指南](/02-git-github-guide.ipynb)
 - [安装和运行 Jupyter Lab](/03-jupyter-lab-guide.md)
 - [Python 常见符号](/04-python-symbols.ipynb)
-
-
-
-
-
